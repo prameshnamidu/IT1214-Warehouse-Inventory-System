@@ -1,31 +1,28 @@
 This is a simple Warehouse Inventory Management System using Java Collections Framework
 
-//How to compile and run
+# Warehouse Inventory Management System
 
-javac Item.java
-javac Inventory.java
+## Description
+This is a Java-based Warehouse Inventory System using ArrayList.
+It allows users to manage items efficiently.
+
+## Features
+- Add items
+- Remove items
+- Update quantity
+- Search items
+- Display all items
+
+## How to Run
+
 javac Warehouse.java
-
 java Warehouse
 
-
-
-//Sample
-Warehouse Inventory System
+## Sample Output
 
 1 Add Item
 2 Remove Item
 3 Update Quantity
-4 Search by ID
-5 Search by Name
-6 Display Items
-7 Exit
-
-Enter choice: 1
-
-Enter ID: I001
-Enter Name: Pen
-Enter Quantity: 50
-Enter Price: 100
-
-Item added successfully
+4 Search Item
+5 Display All Items
+6 Exit
